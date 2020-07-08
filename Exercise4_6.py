@@ -8,9 +8,6 @@
 
 from itertools import count,cycle
 
-i1 = 0
-i2 = 0
-
 def my_count(n):
     for el in count(n):
         if el > 20:
